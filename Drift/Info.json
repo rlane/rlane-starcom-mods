@@ -1,0 +1,8 @@
+{
+	"Id": "Drift",
+	"DisplayName": "Drift",
+	"Author": "rlane",
+	"Version": "1.0.0",
+	"AssemblyName": "Drift.dll",
+	"EntryMethod": "Drift.Main.Load"
+}
